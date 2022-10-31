@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "919554504552",
+    "project_id": "skyscrape-9e439",
+    "storage_bucket": "skyscrape-9e439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919554504552:ios:55aad9483c5e862c1608dd",
+        "android_client_info": {
+          "package_name": "com.VincentL.SkyScrape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919554504552-odabsuo38id6uuua2smmejne33ckhe5g.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOKEwIxdy3DZr6MkkUz3UAmXJ1NnkVOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
